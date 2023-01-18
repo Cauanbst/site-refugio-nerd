@@ -1,0 +1,156 @@
+#G{
+    height: 700px;
+    width: 1559px;
+}
+
+
+.a{
+    margin: 0px;
+    padding: 20px;
+    background-color: #32CD32;
+    height: 100px;
+}
+
+#b{
+    font-size: 70px;
+    font-family: Algerian;
+    
+
+}
+
+.h{ 
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    padding: 0px;
+    margin: 20px;
+    width: 30%;
+    border-style: groove;
+    border-color: #2F4F4F;
+
+    
+}
+
+.hj{
+    border-style: groove;
+    border-width: 30px 30px;
+    border-color: #2F4F4F;
+}
+
+.lo{
+margin-top: 10px;   
+float: left;
+margin: 10px;
+}
+
+#kl{
+    font-size: 60px;
+    font-family: arial black;
+}
+
+#partido{
+    font-size: 60px;
+    font-family: arial black;
+    margin-top: 200px;
+}
+
+
+
+#Jogos{
+    clear: both;
+}
+
+#pt{
+    margin-top:50px;
+    font-size: 60px;
+    font-family: arial black;
+    clear: both;
+}
+
+.pl{
+    float: left;
+    margin-top: 10px;
+    margin:10px;
+}
+
+
+
+.ty{
+    float: left;
+    margin-top: 10px;
+    margin:10px;
+}
+
+#ft{margin-top:50px;
+    font-size: 60px;
+    font-family: arial black;
+    clear: both;
+
+}
+
+#Séries{
+    clear: both;
+}
+
+.rodape{
+    clear: both;
+    margin: 0px;
+    padding: 20px;
+    background-color: #1C1C1C;
+    height: 320px;
+}
+
+#titulo{
+    color: white;
+    font-family: arial black;
+}
+
+#insta{
+    padding: 30px;
+}
+
+#pol{
+    font-family: arial;
+    margin-top: 1vh;
+    color: #006400;
+}
+
+#lop{
+    color: white;
+}
+
+#poli{
+    font-family: arial;
+    color:#006400
+}
+
+#lopf{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
